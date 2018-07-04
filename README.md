@@ -1,6 +1,6 @@
 # jewel
 
-TODO: Write a description here
+A GNU plotting library for Crystal programming language.
 
 ## Installation
 
@@ -9,7 +9,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   jewel:
-    github: your-github-user/jewel
+    github: londoed/jewel
 ```
 
 ## Usage
@@ -34,4 +34,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [your-github-user](https://github.com/your-github-user) londoed - creator, maintainer
+- [londoed](https://github.com/londoed) Eric Londo - creator, maintainer
