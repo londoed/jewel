@@ -1,6 +1,6 @@
 require "./jewel/*"
 
-# TODO: Write documentation for `Jewel`
+
 module Jewel
-  # TODO: Put your code here
+  alias GenNum = Float64 | Int32 | Int64 | Float32
 end
